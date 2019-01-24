@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/debug/shaders"/></dataSet></merger>

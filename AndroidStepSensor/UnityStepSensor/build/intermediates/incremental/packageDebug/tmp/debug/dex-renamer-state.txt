@@ -1,0 +1,4 @@
+#Thu Jan 24 11:59:08 JST 2019
+base.0=/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

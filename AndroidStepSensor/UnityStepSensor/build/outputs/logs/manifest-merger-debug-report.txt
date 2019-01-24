@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [:unity-android-resources] /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:70-103
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:151-176
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:104-150
+	xmlns:android
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:177-200
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:2:201-239
+supports-screens
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:3-28:17
+	android:label
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:4:125-146
+activity#jp.co.sample.StepSensor.UnityPlayerActivity
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:48-90
+	android:label
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:91-122
+	android:hardwareAccelerated
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:305-340
+	android:configChanges
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:123-304
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:5:341-399
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:11:18-58
+service#jp.co.sample.lib.Sensor.StepSensorIntentService
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:14:5-15:15
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:14:14-76
+meta-data#unity.build-id
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:24:5-101
+	android:value
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:24:46-98
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:24:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:25:5-69
+	android:value
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:25:49-66
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:25:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:26:5-74
+	android:value
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:26:51-71
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:26:16-50
+meta-data#android.max_aspect
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:27:5-72
+	android:value
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:27:50-69
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:27:16-49
+uses-sdk
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:3-72
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:3-72
+MERGED from [:unity-android-resources] /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-47
+MERGED from [:unity-android-resources] /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-47
+INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:3-72
+	android:targetSdkVersion
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:40-69
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+		INJECTED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:13-39
+		MERGED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:29:13-39
+uses-feature#0x00020000
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:30:3-52
+	android:glEsVersion
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:30:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:31:3-65
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:31:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:32:3-106
+	android:maxSdkVersion
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:32:77-103
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:32:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:33:3-105
+	android:maxSdkVersion
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:33:76-102
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:33:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:34:3-88
+	android:required
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:34:61-85
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:34:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:35:3-99
+	android:required
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:35:72-96
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:35:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:36:3-108
+	android:required
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:36:81-105
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:36:17-80
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:38:3-79
+	android:name
+		ADDED from /Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/AndroidManifest.xml:38:20-76

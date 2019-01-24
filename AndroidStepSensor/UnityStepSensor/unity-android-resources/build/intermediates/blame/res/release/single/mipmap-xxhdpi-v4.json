@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/notification_icon.png",
+        "source": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/res/mipmap-xxhdpi/notification_icon.png"
+    }
+]

@@ -1,0 +1,11 @@
+jp.co.sample.StepSensor
+int drawable app_banner 0x7f010000
+int drawable app_icon 0x7f010001
+int mipmap ic_launcher 0x7f020000
+int mipmap notification_icon 0x7f020001
+int string app_name 0x7f030000
+int string stepsensor_notification_text 0x7f030001
+int string stepsensor_notification_title 0x7f030002
+int style UnityThemeSelector 0x7f040000
+int style UnityThemeSelector_Translucent 0x7f040001
+int xml file_paths 0x7f050000

@@ -1,0 +1,8 @@
+*.sln
+*.csproj
+*.symbols.zip
+.DS_Store
+Temp/
+obj/
+.idea/
+Library/

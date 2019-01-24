@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="stepsensor_notification_title">unagi</string>
+  <string name="stepsensor_notification_text">歩行センサ起動中</string>
+</resources>

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "0,0",
+                        "startOffsets": "53,149",
+                        "endLines": "3,7",
+                        "endColumns": "8,8",
+                        "endOffsets": "147,374"
+                    },
+                    "to": {
+                        "startLines": "5,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "238,336",
+                        "endLines": "6,10",
+                        "endColumns": "8,8",
+                        "endOffsets": "331,558"
+                    }
+                },
+                {
+                    "source": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "52",
+                        "endOffsets": "103"
+                    }
+                },
+                {
+                    "source": "/Users/hattori_yuri/unity_practice/UnityStepSensor/AndroidStepSensor/UnityStepSensor/unity-android-resources/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,63",
+                        "endOffsets": "116,180"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "108,174",
+                        "endColumns": "65,63",
+                        "endOffsets": "169,233"
+                    }
+                }
+            ]
+        }
+    ]
+}
